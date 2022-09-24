@@ -62,7 +62,8 @@ Parameters:
 from emailfinder.extractor import *
 
 
-emails1 = get_emails_from_google("domain.com")
+emails1
+ = get_emails_from_google("domain.com")
 emails2 = get_emails_from_bing("domain.com")
 emails3 = get_emails_from_baidu("domain.com")
 ```
@@ -80,4 +81,5 @@ This project has been developed by:
 
 # Disclaimer!
 
-The software is designed to check a company's emails found in the search engines. The author is not responsible for any illegitimate use.
+The software is desi
+gned to check a company's emails found in the search engines. The author is not responsible for any illegitimate use.
